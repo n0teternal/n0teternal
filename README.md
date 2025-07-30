@@ -1,6 +1,6 @@
 ### Hi there, I'm Iliya 👋
 
-I'm a first-year student at Far Eastern Federal University (FESFU/ВВГУ), passionate about everything related to computer networks, automation, and Linux. I believe in learning by doing and documenting my journey here.
+I'm a first-year student at Far Eastern Federal University (VVSU/ВВГУ), passionate about everything related to computer networks, automation, and Linux. I believe in learning by doing and documenting my journey here.
 
 ---
 
@@ -24,6 +24,6 @@ I'm a first-year student at Far Eastern Federal University (FESFU/ВВГУ), pas
 
 📫 **How to reach me:**
 - **Telegram:** [@notttt_eternal](https://t.me/notttt_eternal)
-- **Habr:** [n0teternal](https://habr.com/ru/users/n0teternal)
+- **Habr:** [not_eternal](https://habr.com/ru/users/not_eternal)
 
 ---
