@@ -8,7 +8,7 @@ I'm a first-year student at Far Eastern Federal University (VVSU/ВВГУ), pass
 - Building my hands-on skills for the **CCNA 200-301** certification.
 - Developing network automation scripts with **Python** (using Netmiko, Paramiko).
 - Mastering **Linux CLI** and network configuration.
-- You can track my progress in my [host-checker](https://github.com/n0teternal/host-checker) repositories.
+- You can track my progress in my pinned repositories ([host-checker](https://github.com/n0teternal/host-checker)).
 
 🌱 **My Goal:**
 - I am actively seeking an internship or a trainee position as a **NOC Engineer**, **Network Engineer**, or in **System Administration / Infrastructure** in Vladivostok or the Far East region.
