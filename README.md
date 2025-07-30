@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm Iliya 👋
 
-<!--
-**n0teternal/n0teternal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year student at Far Eastern Federal University (FESFU/ВВГУ), passionate about everything related to computer networks, automation, and Linux. I believe in learning by doing and documenting my journey here.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working on:**
+- Building my hands-on skills for the **CCNA 200-301** certification.
+- Developing network automation scripts with **Python** (using Netmiko, Paramiko).
+- Mastering **Linux CLI** and network configuration.
+- You can track my progress in my [network-checker](https://github.com/n0teternal/network-ping-checker) repositories.
+
+🌱 **My Goal:**
+- I am actively seeking an internship or a trainee position as a **NOC Engineer**, **Network Engineer**, or in **System Administration / Infrastructure** in Vladivostok or the Far East region.
+
+⚙️ **Languages and Tools:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+📫 **How to reach me:**
+- **Telegram:** [@notttt_eternal](https://t.me/notttt_eternal)
+- **Habr:** [n0teternal](https://habr.com/ru/users/n0teternal)
+
+---
