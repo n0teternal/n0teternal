@@ -1,29 +1,43 @@
-  ### Hi there, I'm Iliya 👋
-  
-  VVSU ITS student. Learning networking basics (TCP/IP, DNS, HTTP). Focus now: 1C integrations — CSV/JSON, HTTP, reports (SKD), queries
-  
-  ---
-  
-  🔭 **I’m currently working on:**
-  - Building my hands-on skills for the **CCNA 200-301** certification.
-  - Developing network automation scripts with **Python** (using Netmiko, Paramiko).
-  - Mastering **Linux CLI** and network configuration.
-  - You can track my progress in my pinned repositories ([host-checker](https://github.com/n0teternal/host-checker)).
-  
-  🌱 **My Goal:**
-  - I am actively seeking an internship or a trainee position as a **NOC Engineer**, **Network Engineer**, or in **System Administration / Infrastructure** in Vladivostok or the Far East region.
-  
-  ⚙️ **Languages and Tools:**
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  
-  📫 **How to reach me:**
-  - **Telegram:** [@notttt_eternal](https://t.me/notttt_eternal)
-  - **Habr:** [not_eternal](https://habr.com/ru/users/not_eternal)
-  
-  ---
+### Привет! Я Илья 👋
+
+Студент **ВВГУ, кафедра ИТС (IoT/сети)**. Учусь сетям (TCP/IP, DNS, HTTP), пишу небольшие утилиты на **Python**.  
+Нравится наводить порядок в задачах и данных: простые интеграции (CSV/JSON, HTTP), аккуратные отчёты и внятные README.
+
+---
+
+🔭 **Чем сейчас занимаюсь**
+- Разбираю основы сетей и протоколов, тренирую **Linux CLI**.
+- Делаю маленькие инструменты автоматизации на **Python**.
+- Поддерживаю чистые репозитории: краткие инструкции, примеры, скриншоты.
+- Прогресс можно смотреть в закреплённых репозиториях — например, **[host-checker](https://github.com/n0teternal/host-checker)**.
+
+🧭 **Интересы**
+- Интеграции и обмен данными: **CSV/JSON**, простые HTTP-сервисы.
+- Запросы и отчёты (нормализация, фильтры, агрегирование).
+- Документация процессов в коротком формате (BPMN/SRS, чек-листы).
+
+---
+
+⚙️ **Языки и инструменты**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+
+---
+
+## 📌 Проекты (закреплённые)
+- **[host-checker](https://github.com/n0teternal/host-checker)** — CLI-утилита для проверки доступности хостов (аргументы, логирование).
+- `csv-json-exchange-demo` — небольшой конвертер CSV→JSON с валидацией *(в работе)*.
+- `docs-templates` — заготовки для BPMN/SRS и чек-листов *(в работе)*.
+
+---
+
+📫 **Связь**
+- **Telegram:** [@notttt_eternal](https://t.me/notttt_eternal)  
+- **Habr:** [not_eternal](https://habr.com/ru/users/not_eternal)
