@@ -1,6 +1,6 @@
   ### Hi there, I'm Iliya 👋
   
-  I'm a first-year student at Vladivostok State University (VVSU/ВВГУ), passionate about everything related to computer networks, automation, and Linux. I believe in learning by doing and documenting my journey here.
+  VVSU ITS student. Learning networking basics (TCP/IP, DNS, HTTP). Focus now: 1C integrations — CSV/JSON, HTTP, reports (SKD), queries
   
   ---
   
